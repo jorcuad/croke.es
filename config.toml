@@ -1,6 +1,6 @@
-baseurl = "https://blissful-payne-b3f564.netlify.com/"
+baseurl = "https://croke.es/"
 languageCode = "en-us"
-title = "Strata"
+title = "Croke's"
 theme = "hugo-strata-theme"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -95,7 +95,7 @@ paginate = 10
 			description = "Lorem ipsum dolor sit amet."
 
 	[params.recentposts]
-		hide  = true
+		hide  = false
 		title = "Recent blog posts"
 
 	[params.contact]
