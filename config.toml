@@ -2,7 +2,7 @@ baseurl = "https://www.croke.es/"
 languageCode = "en-us"
 title = "Croke's"
 theme = "hugo-strata-theme"
-disqusShortname = "spf13"
+disqusShortname = "coke"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -101,7 +101,7 @@ paginate = 10
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		content = "You can use this form in order to contact me or you can use directly my mail. Also, you can contact me in twitter at [@coke727](https://twitter.com/coke727). Please, feel free to contact me or ask me any question."
 
 		# This can be exact coordinates or a searchable address in google maps
 		gmaps_address = "41.7030484,-4.69695088"
@@ -122,7 +122,7 @@ paginate = 10
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "jorgecuadradosaez@gmail.com"
+		email = "jorgecuadradosaez[at]gmail[dot]com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
