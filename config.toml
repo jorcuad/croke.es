@@ -146,5 +146,5 @@ paginate = 10
 
 [[menu.main]]
 	name = "CV"
-	url  = "cv/"
+	url  = "https://drive.google.com/open?id=1aavzAx53atu4n0dTHPLjZIV-j5gZTRnE"
 	weight = 0
