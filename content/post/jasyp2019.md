@@ -14,19 +14,19 @@ This weekend I went Granada to speak in JASyP (Jornadas de Anonimato, Seguridad 
 
 ## What I talked about?
 
-Some months ago Interferencias released the CFP of JASyP 2019. I already talked about Certificate Transparency there in 2017 and it was a great experience where I met awesome people. Last year I couldn't go but this year I couldn't miss it. I decided to send a paper about Virtual Voice Assistants, this days data is as valuable as oil and this kind of smart assistans have access to 'unlimited' private data about our daily life.
+Some months ago Interferencias released the CFP of JASyP 2019. I already talked about Certificate Transparency there in 2017 and it was a great experience where I met awesome people. Last year I couldn't go but this year I couldn't miss it. I decided to send a paper about Virtual Voice Assistants, this days data is as valuable as oil and this kind of smart assistans have access to *'unlimited'* private data about our daily life.
 
 ![Talk index](/images/jasyp2019/index.png)
 
-In this talk the first fourth points are about privacy, what is privacy, why we need it and what happens when we haven't any privacy, what are the methods os an attack to our privacy and what happens when we industrialice these methods.
+In this talk the first fourth points are about privacy, what is privacy, why we need it, what happens when we haven't any privacy, what are the new ways to attack our privacy and what happens when we industrialice these methods.
 
-Then, the second part of the presentation explain what is a virtual voice assistant, what are the devices related to them, a privacy risk analysis of their functionalities and the review of some hardware and software security audit to Google Home and Apple HomePod.
+Then, the second part of the presentation explains what is a virtual voice assistant, which are the devices related to them, a privacy risk analysis and some anotations from a software and hardware security review performed on Google Home and Apple HomePod.
 
-Finally, I explain some new privacy projects for Virtual Voice assistantes like 'Project Alias'. This project is a proof of concept which aims to solve some privacy issues like the active listening of the assistants.
+Finally, I explain some new privacy projects for Virtual Voice assistantes like *'Project Alias'*. *Alias* is a proof of concept which aims to solve some privacy issues like the active listening of the hardware assistants.
 
 ## The Slides
 
-If you are concerned about privacy and security, I encourage you to take a look on the slides of talk.
+If you are concerned about privacy and security, I encourage you to take a look on the slides of the talk.
 
 <center>**[-------> [SLIDES] <-------](https://docs.google.com/presentation/d/1qguUIEktor6wzUed0-gMfRtfOTAUK1QzwtI2StDeZQU/edit?usp=sharing)**</center>
 
