@@ -5,7 +5,7 @@ date = "2019-03-02T21:00:00+01:00"
 menu = ""
 tags = []
 draft = false
-title = "[DIY] How to make a cryptex [I]"
+title = "[DIY] How to make a cryptex"
 +++
 
 In my spare time I enjoy to start this kind of freak/crazy projects with my 3D printer. Particularly, I love to print locks in order to learn how they work. If I have time, I will try to post some other locks I printed, but by now, I prefer to write about my last project of this kind. During the last week I had some extra remote working days. That allowed me to start printing a cryptex.
@@ -84,7 +84,7 @@ It's important to put an special effort sanding the screws, the external core ra
 
 ![Cutting the corners og the teeth rail](/images/cryptex/railcorner.jpg)
 
-* Introduce the steppers in the outer core holes, probably you will broke some of them doing it, so print more than 30 is recommendable.
+* Introduce the steppers in the outer core holes, probably you will broke some of them doing it, so, printing more than 30 is recommendable.
 
 * Now, you should be able to assemble all the parts in a functional cryptex.
 
@@ -94,15 +94,15 @@ It's important to put an special effort sanding the screws, the external core ra
 
 ## Painting
 
-Once the cryptex is assembled is time to disassemble it and paint all the pieces. I don't recommend you to paint it assembled, the effect will not be the same. In this post I will try to get an effect of aged copper, something like copper recovered from a sunk boat several years ago. First of all, you will need:
+Once the cryptex is assembled is time to disassemble it and paint all the pieces. I don't recommend you to paint it assembled, the effect will not be the same. In this post, I will try to get an effect of aged copper, something like copper recovered from a sunk boat several years ago. First of all, you will need:
 
 * **Black primer paint**. Don't use a white one, the friction of the pieces will end revealing the base paint and a white one will break the effect.
-* **Copper acrylic paint**. It will be aour base color.
+* **Copper acrylic paint**. It will be our base color.
 * **Blue acrylic dye**. I used a Caribbean Blue tone.
 * **Green acrylic dye**. I used a Moss Green tone.
 * **Matt varnish**. Don't use a glossy varnish if you want to get an effect of aged copper.
 
-* Apply the black primer. I give two layers of primer paint.
+* Apply the black primer. I give it two layers of primer paint.
 
 ![Primered cryptex](/images/cryptex/primer.jpg)
 
@@ -114,7 +114,7 @@ Once the cryptex is assembled is time to disassemble it and paint all the pieces
 
 ![Copper paint 3](/images/cryptex/copper3.jpg)
 
-* Then you can add the dyes. Here, I give some examples. I chose to add one layer of blue dye and then another one of green one. Other option is to use a red one, this can give an effect of shiny copper which can be really awesome with a wooden effect paint in the decorators. When you apply a dye, you have to add a layer of the dye and then use a rag to remove the excess of paint.
+* Then you can add the dyes. Here, I give some examples. I chose to add one layer of blue dye and then another one of green one. Other option is to use a red one, this option can give the cryptex an effect of shiny copper which can be really awesome with a wooden effect painted in the decorators. When you apply a dye, you have to add a layer of the dye and then use a rag to remove the excess of paint.
 
 ![Dye tests](/images/cryptex/dyetest.jpg)
 *The first one is the red dye, the second one is a blue+green dye and the third one is a green dye.*
