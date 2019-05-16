@@ -5,6 +5,15 @@ img {
   margin-right: auto;
 }
 
+.all-width-container {
+  width: 100%;
+  height: auto;
+}
+
+.all-width-container img{
+  width: 100%;
+}
+
 body {
   text-align: justify;
   text-justify: inter-word;
