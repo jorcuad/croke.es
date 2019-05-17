@@ -20,15 +20,15 @@ Congratulations to all the people behind *x1RedMásSegura* and thank for all tha
 
 ## What I talked about?
 
-The talk deals about the privacy and why it should matters to us. I tried to expose the problems of a lack of privacy and why it is difficult to realize when the problems comes from bad use of our data. The other main point of the presentation explains what are the risks of the new technologies like the **voice assistants** and how to deal with them.
+The talk deals about privacy and why it should matters to us. I tried to expose the problems of a lack of privacy and why it is difficult to realize when the problems comes from a bad use of our data. The other main point of the presentation explains what are the risks of the new technologies like the **voice assistants** and how to deal with them.
 
-This talk is a remake of the last one I gave in [JASyP]({{< ref "jasyp2019.md" >}}) conferences. Since the talk is for kids, I removed some complex technical details, I extended the context about what is privacy and its importance, I changed the real cases about privacy leaks to another ones about social networks and console games and finally I changed the aesthetics of the presentation.
+This talk is a remake of the last one I gave in [JASyP]({{< ref "jasyp2019.md" >}}) conferences. Since the talk is for kids, I removed some complex technical details, I extended the context about what is privacy about and its importance, I changed the real cases about privacy leaks to another ones about social networks and console games and finally I changed the aesthetics of the presentation.
 
 ![First slide](/images/x1redmassegura/cover.png)
 
 My main concern was **keeping kids attention** during the talk. I rebuilt the aesthetics of the slides using **Lego Films** images and GIFs along the presentation.
 
-The talk presents **Alfred**, the butler of Batman. Alfred is like a voice assistant, Batman asks for things to Alfred and He will perform the actions requested. Using Alfred as a **metaphor** the presentation deals with topics like **privacy**, secrets, information leaks or smart voice assistants.
+The talk presents **Alfred**, the butler of Batman. Alfred is like a voice assistant, Batman asks him for doing something and He will perform the actions requested. Using Alfred as a **metaphor**, the presentation deals with topics like **privacy**, secrets, information leaks or smart voice assistants.
 
 ![Alfred slide](/images/x1redmassegura/alfred.png)
 
