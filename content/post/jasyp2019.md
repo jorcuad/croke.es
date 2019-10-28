@@ -1,9 +1,9 @@
 +++
 banner = "banners/placeholder.png"
-categories = ["Congress", "JASyP", "Security", "Privacy"]
+categories = ["Congress"]
 date = "2019-04-27T10:00:00+01:00"
 menu = ""
-tags = []
+tags = ["JASyP", "Security", "Privacy"]
 draft = false
 title = "[CON] Espías domésticos: A talk about virtual voice assistants"
 +++

@@ -1,9 +1,9 @@
 +++
 banner = "banners/placeholder.png"
-categories = ["3D Printing", "Cryptography", "DIY"]
+categories = ["DIY"]
 date = "2019-03-02T21:00:00+01:00"
 menu = ""
-tags = []
+tags = ["3D Printing", "Cryptography"]
 draft = false
 title = "[DIY] How to make a cryptex"
 +++
