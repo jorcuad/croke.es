@@ -8,7 +8,7 @@ draft = false
 title = "[CON] TizonaConf: Cybersecurity in industrial environments"
 +++
 
-Day by day I'm getting used to going CONS on the weekends and the ones I like the most are the ones where I can feel a friendship mood surrounding the place and where people are open to talk, hangout and share. Last 17 and 18 of October I attended to **TizonaConf**, a newborn conference with that *feeling* I described.... and **¡IN BURGOS!** I am so proud of being part of a conference which is teaching and sharing knowledge about cybersecurity in [my region](https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n).
+Day by day I'm getting used to going CONS on the weekends and the ones I like the most are the ones where I can feel a friendship mood surrounding the place and where people are open to talk, hangout and share. Last 17 and 18 of October I attended to **TizonaConf**, a newborn conference with that *feeling* I described.... and **¡IN (BURGOS)[https://es.wikipedia.org/wiki/Burgos]!** I am so proud of being part of a conference which is teaching and sharing knowledge about cybersecurity in [my region](https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n).
 
 <span class="all-width-container">
 ![Tizona](/images/tizona/tizona.PNG)
@@ -16,7 +16,7 @@ Day by day I'm getting used to going CONS on the weekends and the ones I like th
 
 **Tizona** appart of an unexpected surprise is quite unique. This conference is not the typical event which is born after a large group of professionals decide to start something bigger... is just the opposite, Tizona is an event which aims to gather professionals in order to **create a hacking community**, [burgos4hack](http://www.burgos4hack.com).
 
-If you are interested, they are a group of professionals, students, developers, pendesters... with a special interest in cybersecurity (without keeping appart other topics related to computer science). You can **check their web** page [here](http://www.burgos4hack.com).
+If you are interested, they are a group of professionals, students, developers, pentesters... with a special interest in cybersecurity (without keeping appart other topics related to computer science). You can **check their web** page [here](http://www.burgos4hack.com).
 
 ## What I talked about?
 
@@ -54,24 +54,24 @@ Definitely... both of them. Smart assistants are without any doubt a **rule chan
 
 Regarding the lastest news about this topic, It is clear that assistants are also a **thread**. All the main actors in this technology have admitted **data leaks**, third-party security flaws and people listening to conversations in order to improve the service. Here are the **links** to the picture's headers.
 
-* Confirmed: Apple caught in **Siri** privacy scandal. [Link: Forbes](https://www.forbes.com/sites/jeanbaptiste/2019/07/30/confirmed-apple-caught-in-siri-privacy-scandal-let-contractors-listen-to-private-voice-recordings/#7e497cfe7314)
-* **Google** admits partners leaked more than 1000 private conversations. [Link: CNBC](https://www.cnbc.com/2019/07/11/google-admits-leaked-private-voice-conversations.html)
-* Amazon reportedly employs thousands of people to listen to your **Alexa** conversations. [Link: CNN](https://edition.cnn.com/2019/04/11/tech/amazon-alexa-listening/index.html)
+* Confirmed: Apple caught in **Siri** privacy scandal. [Source: Forbes](https://www.forbes.com/sites/jeanbaptiste/2019/07/30/confirmed-apple-caught-in-siri-privacy-scandal-let-contractors-listen-to-private-voice-recordings/#7e497cfe7314)
+* **Google** admits partners leaked more than 1000 private conversations. [Source: CNBC](https://www.cnbc.com/2019/07/11/google-admits-leaked-private-voice-conversations.html)
+* Amazon reportedly employs thousands of people to listen to your **Alexa** conversations. [Source: CNN](https://edition.cnn.com/2019/04/11/tech/amazon-alexa-listening/index.html)
 
 ## Some points about the assistants checked
 
 After that articles, I was concerned about the topic so I and some colleges started an investigation about this kind of devices with two different approaches: Software security flaws and hardware security issues. Some of the knowledge we obtained from this investigations is summarized here:
 
-* It is possible to hide hardware devices inside the assistants, the speaker air chamber is perfect for a hidden microphone and the disassemble process will last between 10 and 25 minutes depending on the assistant.
-* Al theses devices are composed of a microphone array, one or more speakers, and a motherboard with is used to recognize the command and control the connectivity and settings.
-* They have a physical button which mutes the microphone.
-* In some development platforms is possible to bypass the development security measures in order to develop and deploy malware that starts an unlimited active listening. [1](https://www.elladodelmal.com/2019/10/un-phishing-con-cognitive-services.html)
-* Google Home has a hidden API accessible by local area network that can be used to DoS the device permanently.
+* It is possible to **hide hardware** devices inside the assistants, the speaker air chamber is perfect for a hidden microphone and the disassemble process will last between 10 and 25 minutes depending on the assistant.
+* Al theses devices are composed of a **microphone array**, one or more **speakers**, and a motherboard with is used to recognize the command and control the connectivity and settings.
+* They have a physical button which **mutes** the microphone.
+* In some development platforms is possible to bypass the development security measures in order to develop and deploy malware that starts an **unlimited active listening**. [1](https://www.elladodelmal.com/2019/10/un-phishing-con-cognitive-services.html)
+* Google Home has a **hidden API** accessible by local area network that can be used to DoS the device permanently.
 * From my point of view, smart assistants are not fully developed and their functionality is not useful **yet**.
 
 ## Countermeasures: Alias
 
-There aren't any commercial products which improves the security of the assistants, although, there is a proof of concept I had the opportunity to recreate. I am talking about project Alias, a project made by [Bjørn Karmann](http://bjoernkarmann.dk/) and [Tore Knudsen](http://www.toreknudsen.dk/) which acts like a parasite placed on top of our smart assistant.
+There aren't any commercial products which improves the security of the assistants, although, there is a **proof of concept** I had the opportunity to recreate. I am talking about **project Alias**, a project made by [Bjørn Karmann](http://bjoernkarmann.dk/) and [Tore Knudsen](http://www.toreknudsen.dk/) which acts like a parasite placed on top of our smart assistant.
 
 Alias is made using a Raspberry Pi, a microphone array and a couple of speakers. Alias is trained with a custom activation command trained by ourselves using a web application. For example we can call it *Croke*. Once it is trained, We have to place the device on top of the assistant, placing the speakers just above the assistant microphones. In that moment, the device will start to play a noisy sound that will neutralize the assistant microphones waiting for our custom command. If We pronounce our command *Croke, what time is it?*, Alias will stop the noise and will play the real activation command of the assistant, letting the assistant hear the rest of the command of our mouth. For example:
 
@@ -81,7 +81,7 @@ Alias is made using a Raspberry Pi, a microphone array and a couple of speakers.
 
 *Croke...* (Alias stops the noise and play *Ok Google*) *...what time is it?* (Google home answer us with the time)
 
-Once you understand the project, the idea is very simple and it's affordable to recreate by ourselves. This project is only a proof of concept and you can try to use it in your house but I have to warn you that is not fully developed and it has some issues. Even so, this is an incredible project which should be followed by other ones.
+Once you understand the project, the idea is very **simple** and it's **affordable** to recreate by ourselves. This project is only a proof of concept and you can try to use it in your house but I have to warn you that is not fully developed and it has some issues. Even so, this is an incredible project which **should be followed** by other ones.
 
 If you want to try by yourself, there is a tutorial about how to make it in [Instructables](https://www.instructables.com/id/Project-Alias/).
 
@@ -116,7 +116,7 @@ If you are concerned about **privacy** and **security**, I encourage you to take
 **Thanks** for reading this post. If you have any questions, annotation or you only want to say hello... you can **contact** me in [Twitter](https://twitter.com/coke727), a comment in this post or using smoke signals =P
 
 <span class="all-width-container">
-![Thanks](/images/jasyp2019/thanks.png)
+![Thanks](/images/tizona/thanks.png)
 </span>
 
 **Don't hesitate to ask me any question using the comments or my mail in the home page.**
