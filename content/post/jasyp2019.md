@@ -37,7 +37,7 @@ If you are concerned about **privacy** and **security**, I encourage you to take
 **Thanks** for reading this post. If you have any question, annotation or you only want to say hello... you can **contact** me in [Twitter](https://twitter.com/coke727), a comment in this post or using smoke signals =P
 
 <span class="all-width-container">
-![Thanks](/images/jasyp2019/thanks.png)
+![Thanks](/images/tizona/thanks.png)
 </span>
 
 **Don't doubt asking me any question using the comments or my mail in the home page.**

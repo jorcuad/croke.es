@@ -8,7 +8,7 @@ draft = false
 title = "[CON] TizonaConf: Cybersecurity in industrial environments"
 +++
 
-Day by day I'm getting used to going CONS on the weekends and the ones I like the most are the ones where I can feel a friendship mood surrounding the place and where people are open to talk, hangout and share. Last 17 and 18 of October I attended to **TizonaConf**, a newborn conference with that *feeling* I described.... and **¡IN (BURGOS)[https://es.wikipedia.org/wiki/Burgos]!** I am so proud of being part of a conference which is teaching and sharing knowledge about cybersecurity in [my region](https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n).
+Day by day I'm getting used to going CONS on the weekends and the ones I like the most are the ones where I can feel a friendship mood surrounding the place and where people are open to talk, hangout and share. Last 17 and 18 of October I attended to **TizonaConf**, a newborn conference with that *feeling* I described.... and **¡IN [BURGOS](https://es.wikipedia.org/wiki/Burgos)!** I am so proud of being part of a conference which is teaching and sharing knowledge about cybersecurity in [my region](https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n).
 
 <span class="all-width-container">
 ![Tizona](/images/tizona/tizona.PNG)
