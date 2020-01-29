@@ -15,7 +15,7 @@ paginate = 10
 	description = "Blog técnico personal"
 
 	# Format dates with Go's time formatting
-	date_format = "2006-01-02"
+	date_format = "02-01-2006"
 
 	# Add read time estimates in the format "X min read"
 	show_read_time = true
@@ -122,7 +122,7 @@ paginate = 10
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "jorgecuadradosaez[at]gmail[dot]com"
+		email = "jorgecuadradosaez@gmail.com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
@@ -146,5 +146,5 @@ paginate = 10
 
 [[menu.main]]
 	name = "CV"
-	url  = "https://drive.google.com/open?id=1avs7R4_CUKDl2eL7BWkcnQEcvqCor_09"
+	url  = "https://drive.google.com/open?id=1fxJ1EHTctkBcR4vel163w0qrobUF9pyk"
 	weight = 0
