@@ -8,7 +8,7 @@ draft = false
 title = "[CON] ¡Y se ARmó la Marimorena! Cybersecurity in Augmented Reality"
 +++
 
-Two month ago [Miguel](https://twitter.com/MiguelHzBz) and me were giving a two hours workshop/talk in Valencia about augmented reality mixed with cybersecurity with the objective of improving the physical places and documents security. Cybercamp is organized by [INCIBE](https://www.incibe.es), "_Instituto Nacial de Ciberseguridad_" (National Cybersecurity Institute), which is an organization dependent on the National Ministry of Economy and Business with the aim of increasing the cybersecurity level in the digital market and cyberspace in Spain. INCIBE gives different cybersecurity services like its [CERT](https://www.incibe-cert.es/), free cybersecurity [services](https://www.incibe.es/protege-tu-empresa) for companies and cybersecurity focused on kids ([IS4K](https://www.is4k.es/)).
+Two month ago [Miguel](https://twitter.com/MiguelHzBz) and I were giving a two hours workshop/talk in Valencia about augmented reality mixed with cybersecurity with the objective of improving the physical places and documents security. Cybercamp is organized by [INCIBE](https://www.incibe.es), "_Instituto Nacial de Ciberseguridad_" (National Cybersecurity Institute), which is an organization dependent on the National Ministry of Economy and Business with the aim of increasing the cybersecurity level in the digital market and cyberspace in Spain. INCIBE gives different cybersecurity services like its [CERT](https://www.incibe-cert.es/), free cybersecurity [services](https://www.incibe.es/protege-tu-empresa) for companies and cybersecurity focused on kids ([IS4K](https://www.is4k.es/)).
 
 <span class="all-width-container">
 ![Cybercamp](/images/cybercamp2019/cybercamp.jpg)
@@ -46,7 +46,7 @@ If you look at the slides or the conference video, we talk about some examples w
 ### Developing Augmented Reality with web technologies
 AR is a quite complex technology if you try starting a project using frameworks such _Unreal Engine_ or _Unity_ since you need to prepare all the scaffolding and learn many specific concepts and tools. Keeping that in mind and with the two hours limitation for workshops, I decided to use a simpler option, [_AR.js_](https://github.com/jeromeetienne/AR.js).
 
-Why is this a good choice? _AR.js_ is a **Javascript library**, Javascript is a greatly spread language which is known for most of the developers and using web technologies we can share the application world around without getting into troubles creating accounts in application stores or compiling executable files. For sure there are options to get these problems done in a simple and fast way but two hours is not enough time for explaining how to achieve that to people who are highschoolers, bachelors or even families without technical knowledge.
+Why is this a good choice? _AR.js_ is a **Javascript library**, Javascript is a greatly spread language which is known for most of the developers and using web technologies we can share the application world around without getting into troubles creating accounts in application stores or compiling executable files. For sure there are options to get these problems done in a simple and fast way but two hours is not enough time for explaining how to achieve that to people who are highschoolers, graduate or even families without technical knowledge.
 
 <span class="all-width-container">
 ![Technologies](/images/cybercamp2019/technologies.png)
