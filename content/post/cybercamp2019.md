@@ -8,7 +8,7 @@ draft = false
 title = "[CON] ¡Y se ARmó la Marimorena! Cybersecurity in Augmented Reality"
 +++
 
-Two month ago [Miguel](https://twitter.com/MiguelHzBz) and I were giving a two hours workshop/talk in Valencia about augmented reality mixed with cybersecurity with the objective of improving the physical places and documents security. Cybercamp is organized by [INCIBE](https://www.incibe.es), "_Instituto Nacial de Ciberseguridad_" (National Cybersecurity Institute), which is an organization dependent on the National Ministry of Economy and Business with the aim of increasing the cybersecurity level in the digital market and cyberspace in Spain. INCIBE gives different cybersecurity services like its [CERT](https://www.incibe-cert.es/), free cybersecurity [services](https://www.incibe.es/protege-tu-empresa) for companies and cybersecurity focused on kids ([IS4K](https://www.is4k.es/)).
+Two month ago [Miguel](https://twitter.com/MiguelHzBz) and I were giving a two hours workshop/talk in Valencia about augmented reality mixed with cybersecurity and the objective of improving the physical places and documents security. Cybercamp is organized by [INCIBE](https://www.incibe.es), "_Instituto Nacial de Ciberseguridad_" (National Cybersecurity Institute), which is an organization dependent on the National Ministry of Economy and Business with the aim of increasing the cybersecurity level in the digital market and cyberspace in Spain. INCIBE gives different cybersecurity services like its [CERT](https://www.incibe-cert.es/), free cybersecurity [services](https://www.incibe.es/protege-tu-empresa) for companies and cybersecurity focused on kids ([IS4K](https://www.is4k.es/)).
 
 <span class="all-width-container">
 ![Cybercamp](/images/cybercamp2019/cybercamp.jpg)
@@ -21,6 +21,8 @@ CyberCamp is the major cybersecurity event that INCIBE organizes on a yearly bas
 </blockquote>
 
 In a plain language, **Cybercamp** is a congress which wants to gather together families, students and cybersecurity professionals. Each year in one different city, Cybercamp offers technical, educational and motivational talks, workshops, cybersecurity teaching activities for kids and even a [hackathon](https://cybercamp.es/competiciones/hackathon) and a [CTF](https://cybercamp.es/competiciones/CTF) contest.
+
+In the technical workshop category, we give a talk called _"¡Y se ARmó la Marimorena! Ciberseguridad en realidad aumentada"_ (<strike>Maria the brunette armed herself</strike>! Cybersecurity in Augmented Reality)
 
 ## What I talked about?
 **Augmented Reality (AR)** is a technology that allows us to **show digital objects inside the physical reality** using a special set of glasses or a smartphone. This appealing technology is closer than ever and in this workshop we would like to anticipate the future in an exercise of innovation. You will not only learn how this technology works and some keys to keep in mind when working with it but also how to develop different solutions to make our physical spaces more secure digitally.
@@ -37,22 +39,22 @@ As [Miguel](https://twitter.com/MiguelHzBz) stated in this timeline, during the 
 
 From **aircraft** and **cars** control panels to mobile applications which allows user to get more information about **monuments** or **products** the augmented reality is **inadvertently becoming our daily life context**. Like in most of the technologies, when a technology increase in importance, **cybersecurity risks** starts to become real incidents. AR is involved in the physical world, thus, it can **affect physically the world**. For example, the AR assistants of a car or a fake GPS indications can compromise the safety of the user if hacked.
 
-If you look at the slides or the conference video, we talk about some examples were this technology represent a **threat** in privacy, marketing or vandalism. These are not common incidents nowadays but are for sure incoming threats that will affect us in the future. As an example of this, [Hyper-Reality](https://youtu.be/YJg02ivYzSs) is a great **short movie** to watch.
+If you look at the slides or the conference video, we talk about some examples were this technology represent a **threat** in privacy, marketing or vandalism. Those are not common incidents nowadays but they are incoming threats that will affect us in the future. As an example of this, [Hyper-Reality](https://youtu.be/YJg02ivYzSs) is a great **short movie** to watch.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YJg02ivYzSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 ### Developing Augmented Reality with web technologies
-AR is a quite complex technology if you try starting a project using frameworks such _Unreal Engine_ or _Unity_ since you need to prepare all the scaffolding and learn many specific concepts and tools. Keeping that in mind and with the two hours limitation for workshops, I decided to use a simpler option, [_AR.js_](https://github.com/jeromeetienne/AR.js).
+AR is a quite complex technology if you are trying to start a new project using frameworks such _Unreal Engine_ or _Unity_ since you will need to prepare all the scaffolding and learn many specific concepts and tools. Keeping that in mind and with the two hours limitation for our workshop, I decided to use a simpler option, [_AR.js_](https://github.com/jeromeetienne/AR.js).
 
-Why is this a good choice? _AR.js_ is a **Javascript library**, Javascript is a greatly spread language which is known for most of the developers and using web technologies we can share the application world around without getting into troubles creating accounts in application stores or compiling executable files. For sure there are options to get these problems done in a simple and fast way but two hours is not enough time for explaining how to achieve that to people who are highschoolers, graduate or even families without technical knowledge.
+Why is this a good choice? _AR.js_ is a **Javascript library**, Javascript is a greatly spread language which is known for most of the developers. This web language allowed us to share the example applications world around without getting into troubles creating accounts in an _app_ store or compiling executable files. For sure, there are options to get these problems done in a simple and fast way but two hours is not enough time for explaining how to achieve that to a variety of people who is potentially composed by highschoolers, graduates or even families without technical knowledge.
 
 <span class="all-width-container">
 ![Technologies](/images/cybercamp2019/technologies.png)
 </span>
 
-Some time ago, I used [_Three.js_](https://threejs.org/) in one of the Laboratory researches I was involved. This was a great experience and I learnt many new concepts about 3D programing, but even more important, I discovered that awesome library that allows to create 3D applications for web environments in a simple way. Years after that, I discovered _AR.js_, a library meant to create AR applications using **Aframe** and **Three.js** and after a couple of hours trying it, the decision was clear.
+Some time ago, I used [_Three.js_](https://threejs.org/) in one of the Laboratory researches I was involved. This was a great experience and I learnt many new concepts about 3D programing. _Three.js_ allows to create 3D applications for web environments in a simple way but it can be a little tricky to use. Years after that, I discovered _AR.js_, a library meant to create AR applications using **Aframe** and **Three.js** and after a couple of hours trying it, the decision was clear.
 
 _Ar.js_ is extreamly **easy** to use, well documented and **powerful**. The functionality is limited because of the simplicity of the library but in that point is still possible to use _three.js_.
 
@@ -134,7 +136,7 @@ Also you can access the code of the three proofs of concepts here:
 [https://github.com/jorcuad/Cybercamp2019-SecurityAR-Workshop](https://github.com/jorcuad/Cybercamp2019-SecurityAR-Workshop)
 </center>
 
-This year I have participated also in the Hackathon where I achieved the **third price**, during this week I will upload a new post talking about the competition and the **project** we managed to get to the **second version**!
+Apart of the workshop, this year I also participated in the cybersecurity hackathon. After three days of non stop coding we managed to achieve our objectives for the second versión of [ASSAP](https://github.com/assap-org/assap/). We got the **third price**! I will write another post talking about ASSAP and the competition in the next weeks.
 
 
 ## The Slides
